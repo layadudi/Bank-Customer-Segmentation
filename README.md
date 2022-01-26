@@ -46,8 +46,7 @@
    Using the K- Mean’s method we can conclude that 3 clusters are optimal since there is no huge drop in inertia values.
        The elbow curve seems to show similar results. The silhouette score of the K means is also very less value that indicates all the data points are properly clustered to          the cluster.  There is no mismatch in the data points with regards to clustering.
 
-#####
-CONCLUSION : 
+##### CONCLUSION : 
 
 Cluster profiles have been plotted alongside every type of clustering above. According to the K-means clustering profile:
 Cluster 0 = Medium Spending group
@@ -55,9 +54,10 @@ Cluster 1 = Low Spending group
 Cluster 2 = High Spending group
 
 
-## Cluster group 0: Medium Spending Group – These customers are customers who are paying bills and purchasing items while maintaining comparatively good credit scores.
- #                                        So, increasing the credit limit or lowering the interest rate could be a good motivation. Promoting premium cards would also increase 
- #                                        transactions. The chances of increasing the spending habits could be achieved by giving offers and discounts on premium e-commerce                                               sites, travel portals, travel airlines/hotels, as this might encourage them to spend more.
+## Cluster group 0: Medium Spending Group – 
+                                         These customers are customers who are paying bills and purchasing items while maintaining comparatively good credit scores.
+                                         So, increasing the credit limit or lowering the interest rate could be a good motivation. Promoting premium cards would also increase 
+                                          transactions. The chances of increasing the spending habits could be achieved by giving offers and discounts on premium e-commerce                                               sites, travel portals, travel airlines/hotels, as this might encourage them to spend more.
  
  
 ## Cluster group 1: Low Spending Group – These customers should be given constant reminders for payments and offers should be available upon early payments to improve the                                                 payment rates as well as credit score. Increasing their spending habits by tying up with grocery stores, utilities (electricity, phone,                                          gas, others) could be another way to attract such customer groups since the frequency of this group is highest.

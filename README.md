@@ -54,10 +54,7 @@ Cluster 1 = Low Spending group
 Cluster 2 = High Spending group
 
 
-## Cluster group 0: Medium Spending Group – 
-                                         These customers are customers who are paying bills and purchasing items while maintaining comparatively good credit scores.
-                                         So, increasing the credit limit or lowering the interest rate could be a good motivation. Promoting premium cards would also increase 
-                                          transactions. The chances of increasing the spending habits could be achieved by giving offers and discounts on premium e-commerce                                               sites, travel portals, travel airlines/hotels, as this might encourage them to spend more.
+## Cluster group 0: Medium Spending Group – These customers are customers who are paying bills and purchasing items while maintaining comparatively good credit scores. So,                                                  increasing the credit limit or lowering the interest rate could be a good motivation. Promoting premium cards would also increase                                                transactions. The chances of increasing the spending habits could be achieved by giving offers and discounts on premium e-commerce                                               sites, travel portals, travel airlines/hotels, as this might encourage them to spend more.
  
  
 ## Cluster group 1: Low Spending Group – These customers should be given constant reminders for payments and offers should be available upon early payments to improve the                                                 payment rates as well as credit score. Increasing their spending habits by tying up with grocery stores, utilities (electricity, phone,                                          gas, others) could be another way to attract such customer groups since the frequency of this group is highest.

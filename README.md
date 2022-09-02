@@ -3,7 +3,8 @@
 
 
 # EDA 
-  Introduction
+ # Introduction
+  
   It is done to find Dataset has 7 variables and 210 instances. It is evident that no null values are present in the data. 
 
    Using the describe() function in Python, a summary of all the parameters can be obtained.
